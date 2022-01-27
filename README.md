@@ -1,25 +1,7 @@
-CSSI Day 1 - Olympic Rings
+CSSI Flappy bird
 =================
 
 Your Project
 ------------
 
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
+A project based off the original flappy bird game, replicating the same conepts of a bird flying through a pillar. The game incorporates velocity and motion of the pillars through the screen, as well as the speed and flight of the bird itself.
